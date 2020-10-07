@@ -3,9 +3,9 @@
 ## My Year at DSTI : [Applied MSc in Data Science & Artificial Intelligence](https://www.datasciencetech.institute/fr/applied-msc-en-data-science-et-intelligence-artificielle/)
 
 
-| Course                | Syllabus | Workshop | Projet | Keyword |
+| Course                | Syllabus | Workshop | Project | Keyword |
 | --------------------- | -------- | -------- | ------ | ------- |
-| Deep Learning Network | [link](./Syllabus\Deep%20Learning%20Python-Syllabus.pdf)        | .        | .      | .       |
+| Deep Learning with Python | [link](./Syllabus/Deep%20Learning%20Python-Syllabus.pdf)        | .        | .      | .       |
 |                       |          |          |        |         |
 |                       |          |          |        |         |
 
