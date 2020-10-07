@@ -5,7 +5,7 @@
 
 | Course                | Syllabus | Workshop | Project | Keyword |
 | --------------------- | -------- | -------- | ------ | ------- |
-| Deep Learning with Python | [link](./Syllabus/Deep%20Learning%20Python-Syllabus.pdf)        | .        | .      | .       |
+| Deep Learning with Python |         | .        | .      | .       |
 |                       |          |          |        |         |
 |                       |          |          |        |         |
 
