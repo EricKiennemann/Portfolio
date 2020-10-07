@@ -5,6 +5,8 @@
 
 | Course                | Syllabus | Workshop | Projet | Keyword |
 | --------------------- | -------- | -------- | ------ | ------- |
-| Deep Learning Network | [link](./Syllabus\Deep Learning Python-Syllabus.pdf)        | .        | .      | .       |
+| Deep Learning Network | [link](./Syllabus\Deep%20Learning%20Python-Syllabus.pdf)        | .        | .      | .       |
 |                       |          |          |        |         |
 |                       |          |          |        |         |
+
+
